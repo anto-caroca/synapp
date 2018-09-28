@@ -31,19 +31,11 @@ aplicación es re-escribirla usando una nueva tecnología.
 ##  Instalación
 
 Para instalar este proyecto en tu computador, se puede clonar o descargar este repositorio. Luego debes
-tener intalado [nodejs](https://nodejs.org/es/) e instalar las siguientes dependencias con [npm](https://www.npmjs.com/):
+tener intalado [nodejs](https://nodejs.org/es/) e instalar las dependencias con [npm](https://www.npmjs.com/):
 
-* npm i react
-* npm i firebase
-* npm i react-firestore
-* npm install react-router-dom
-* npm i redux
-* npm install redux react-redux
-* npm i moment
-* npm i redux-firestore
-* npm i redux-thunk
+* npm install
 
-**Puedes acceder a la red social en el siguiente link (https://carocromatica.github.io/scl-2018-1-social-network-frameworks/)**
+**Puedes acceder a la red social en el siguiente link (https://carocromatica.github.io/synapp/)**
 
 Deberás crear una cuenta y luego podrás ingresar a la red social cuantas veces quieras.
 

@@ -7,7 +7,7 @@ const Games = () => (
       <div className="col s12 m4 offset-m4">
         <IconNav />
         <div className="card white">
-          <h2>games</h2>
+          <p>Desafíos</p>
         </div>
       </div>
     </div>

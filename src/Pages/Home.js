@@ -7,8 +7,7 @@ const Home = () => (
     <div className="row">
       <div className="col s12 m4 offset-m4">
         <IconNav />
-        <div className="card white">
-          <h2>home</h2>
+        <div>
           <Post />
         </div>
       </div>

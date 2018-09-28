@@ -1,6 +1,6 @@
 import React from 'react';
 
-class LikeButton extends React.Component {
+class CheckButton extends React.Component {
   constructor() {
     super();
     this.state = {
@@ -17,8 +17,8 @@ class LikeButton extends React.Component {
   
   render() {
     
-    const label = this.state.liked ? <i class="fas fa-heart"></i>: <i class="far fa-heart"></i>
-    const text = this.state.liked ? '1 Me gusta' : ''
+    const label = this.state.liked ? <i class="far fa-calendar-check"></i>: <i class="fas fa-calendar-check"></i>
+    const text = this.state.liked ? 'Asistiré' : ''
     return (
       <div className="like">
         <button className="btn  orange darken-1" onClick={this.handleClick}>
@@ -29,4 +29,4 @@ class LikeButton extends React.Component {
   }
 }
 
-export default LikeButton;
+export default CheckButton;

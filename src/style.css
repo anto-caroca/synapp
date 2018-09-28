@@ -31,6 +31,14 @@ body {
   margin-top:15px; 
 }
 
+.postcontent{
+  padding: 15px 0 15px 0px;
+}
+
+.postdate{
+  color: gray;
+}
+
 .signForm{
   padding: 20px;
 }

@@ -90,7 +90,7 @@ class Post extends Component {
                     {datas.map((data, i) =>
                         <div key={i} className="card white signForm">
                             <div className="card-title">
-                                Carolina Torres Durán
+                                Antonella Caroca
                             </div>
                             <div className="postdate"> {data.dia}/ {data.month} /{data.year} a las {data.hora}:{data.minutos}</div>
                             <div className="postcontent"> {data.publication}</div>

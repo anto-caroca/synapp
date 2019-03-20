@@ -5,7 +5,7 @@
   "homepage": "https://anto-caroca.github.io/synapp",
   "dependencies": {
     "@types/react": "^16.4.14",
-    "firebase": "^5.5.1",
+    "firebase": "^5.9.0",
     "gh-pages": "^2.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
